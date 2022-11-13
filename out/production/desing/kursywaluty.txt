@@ -1,0 +1,4 @@
+Dollar->Złoty|4.8
+Złoty->Dollar|0.25
+Euro->Złoty|5
+Złoty->Euro|0.2
